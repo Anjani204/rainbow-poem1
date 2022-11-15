@@ -6,3 +6,4 @@ blue
 purple
 voilet
 added unicorns
+adding indigo color to main
