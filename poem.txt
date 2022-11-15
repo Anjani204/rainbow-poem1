@@ -1,4 +1,4 @@
-creating rainbow and unicorns
+creating rainbow and unicorns,ponies
 red
 green
 yellow
@@ -6,4 +6,7 @@ blue
 purple
 voilet
 added unicorns
+<<<<<ponies
+added ponies
 adding indigo color to main
+>>>>> main
